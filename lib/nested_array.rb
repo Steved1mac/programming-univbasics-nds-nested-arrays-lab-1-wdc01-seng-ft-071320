@@ -1,4 +1,4 @@
-# ORGANIC_PRODUCE = [
+ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
   "Grapes",
